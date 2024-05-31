@@ -6,7 +6,7 @@
 
 <h1 align="center">
   SeedLink 🌱<br>
-  <small>where nature meets home</small>
+  <small>where nature finds home</small>
 </h1>
 
 
