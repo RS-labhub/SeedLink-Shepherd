@@ -1,3 +1,5 @@
+
+https://github.com/RS-labhub/SeedLink-Shepherd/assets/117426013/9b584203-0268-41b0-ab69-f8598d4f62b1
 <p align="center">
     <img src="Preview/Logo.png" />
 </p>
@@ -42,9 +44,9 @@
 
 ###  :movie_camera: Demo
 - After a brief introduction, let's dive a little more inside the project.
-- Here is the walk-through of **SeedLink 🌱**. If you want to witness a more a hd version, [click here]()
+- Here is the walk-through of **SeedLink 🌱**. If you want to witness a more a hd version, [click here](https://github.com/RS-labhub/SeedLink-Shepherd/blob/main/Preview/SeedLink.mp4)
 
-https://github.com/RS-labhub/AI-CHaTBoT/assets/117426013/8157ceed-e0ef-4671-b1ec-f22604306ea7
+https://github.com/RS-labhub/SeedLink-Shepherd/assets/117426013/eabee426-c90d-4996-a08b-d9826dbf4685
 
 <p align="center">Video Demonstration</p>
 
@@ -60,7 +62,7 @@ https://github.com/RS-labhub/AI-CHaTBoT/assets/117426013/8157ceed-e0ef-4671-b1ec
   <br>
   <p align="center">
   <img src="Preview/end.png"  />
-  <p align="center">Tout end</p>
+  <p align="center">Tour end</p>
 </p>
 
 <br>
