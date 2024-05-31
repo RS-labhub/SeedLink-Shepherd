@@ -22,11 +22,11 @@
 <br>
 
 ## 🪶 Features
-- SeedLink 🌱 will let you know about the plants, and the species, which you even don't know.
-- You can search for your favourite plants in your nearby nursery by using SeedLink 🌱 search feature.
-- You also be able to order your choosen plant, and the delivery will be done by our team!
-- SeedLink 🌱 offers you a newsletter which keeps you updated about the plants.
-- If you're finding our tough, we have a App Tour too! A guide which will help you to learn out app more!
+- **Knowledge** 📖: SeedLink 🌱 will let you know about the plants, and the species, which you even don't know.
+- **Availability** ✒️: You can search for your favourite plants in your nearby nursery by using SeedLink 🌱 search feature.
+- **Delivery** 🚀: You also be able to order your choosen plant, and the delivery will be done by our team!
+- **Newsletter** 📰: SeedLink 🌱 offers you a newsletter which keeps you updated about the plants.
+- **Guided Tour** 🚆: If you're finding our tough, we have a App Tour too! A guide which will help you to learn out app more!
 
 #
 
