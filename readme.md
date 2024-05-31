@@ -1,5 +1,3 @@
-
-https://github.com/RS-labhub/SeedLink-Shepherd/assets/117426013/9b584203-0268-41b0-ab69-f8598d4f62b1
 <p align="center">
     <img src="Preview/Logo.png" />
 </p>
@@ -16,6 +14,7 @@ https://github.com/RS-labhub/SeedLink-Shepherd/assets/117426013/9b584203-0268-41
   <img src="Preview/title.png"  />
 </p>
 
+<br>
 
 ## 🌱 SeedLink  
  **SeedLink** is a web application which lets you to explore a diverse range of plants available at nearby nurseries and gardens 🌿. You can buy it, or reasearch about it. That's it?? Naah, explore the app to learn more! 🪴
