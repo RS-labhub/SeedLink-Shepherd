@@ -77,7 +77,7 @@ https://github.com/RS-labhub/SeedLink-Shepherd/assets/117426013/eabee426-c90d-49
 #
 
 ##  :outbox_tray: Installation Guide
-- These are the steps required to install the python project:
+- These are the steps required to install and run the SeedLink 🌱 project:
 
 
 1. Clone the Repository: Open a terminal or command prompt and clone the SeedLink 🌱 repository from GitHub using the following command:
@@ -92,7 +92,7 @@ https://github.com/RS-labhub/SeedLink-Shepherd/assets/117426013/eabee426-c90d-49
     cd SeedLink-Shepherd
   ```
 
-3. Install Dependencies: Use pip to install the required Python dependencies listed in the requirements.txt file:
+3. Install Dependencies: Use pip to install the required dependencies listed in the requirements.txt file:
 
   ```bash
     pip install -r requirements.txt
